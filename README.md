@@ -1,12 +1,12 @@
 # 💡 Sistema Preditivo de Concessão de Empréstimos  
 
-##🧠 Descrição do Projeto
+## 🧠 Descrição do Projeto
 
 Este projeto implementa um modelo preditivo de Machine Learning capaz de estimar a probabilidade de um cliente ter um empréstimo aprovado, com base em seu histórico bancário e perfil financeiro.
 
 A aplicação foi desenvolvida em Python e disponibilizada através de uma interface web interativa em Streamlit, permitindo o input de dados e visualização automática dos resultados.
 
-##⚙️ Tecnologias Utilizadas
+## ⚙️ Tecnologias Utilizadas
 
 Bibliotecas Principais:
 
